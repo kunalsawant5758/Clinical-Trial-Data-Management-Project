@@ -1,0 +1,19 @@
+Query ID,Dataset,Finding,Query Text,Status
+Q001,DM,Age = 150,Please verify subject age. Recorded value (150 years) appears outside the protocol-defined range.,Open
+Q002,DM,Sex missing,Please confirm and update the missing sex value.,Open
+Q003,DM,Height = 20 cm,Please verify height value. Recorded height appears unrealistic.,Open
+Q004,DM,Weight = 250 kg,Please verify weight value. Recorded weight appears unrealistic.,Open
+Q005,DM,Duplicate Subject ID,Please verify subject identifier. Duplicate Subject ID detected.,Open
+Q006,MH,Condition missing,Please confirm and update the missing medical condition.,Open
+Q007,MH,Diagnosis Date = 2035,Please verify diagnosis date. Future dates are not permitted.,Open
+Q008,CM,Dose = -500,Please verify medication dose. Negative values are not acceptable.,Open
+Q009,CM,Medication Start Date missing,Please confirm medication start date.,Open
+Q010,AE,Event Term missing,Please confirm adverse event term.,Open
+Q011,AE,Outcome missing,Please confirm adverse event outcome.,Open
+Q012,AE,End Date before Start Date,Please verify adverse event dates. End date cannot precede start date.,Open
+Q013,LB,HbA1c missing,Please confirm and update missing HbA1c result.,Open
+Q014,LB,Glucose = 999 mg/dL,Please verify glucose result. Recorded value appears outside expected range.,Open
+Q015,VS,Systolic BP = 350 mmHg,Please verify blood pressure value. Recorded value appears unrealistic.,Open
+Q016,VS,Diastolic BP = 20 mmHg,Please verify blood pressure value. Recorded value appears unrealistic.,Open
+Q017,VS,Pulse = 250 bpm,Please verify pulse value. Recorded value appears unrealistic.,Open
+Q018,VS,Weight = -5 kg,Please verify weight value. Negative values are not acceptable.,Open

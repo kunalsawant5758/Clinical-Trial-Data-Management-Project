@@ -1,0 +1,51 @@
+SubjectID,Condition,DiagnosisDate,Ongoing,Severity
+SUBJ001,Type 2 Diabetes,2019-05-15,Yes,Moderate
+SUBJ002,Type 2 Diabetes,2018-05-15,Yes,Mild
+SUBJ003,Obesity,2035-01-01,Yes,Moderate
+SUBJ004,Hypertension,2014-05-15,Yes,Moderate
+SUBJ005,Hypertension,2013-05-15,Yes,Moderate
+SUBJ006,Type 2 Diabetes,2023-05-15,Yes,Moderate
+SUBJ007,Type 2 Diabetes,2012-05-15,Yes,Moderate
+SUBJ008,Dyslipidemia,2015-05-15,Yes,Mild
+SUBJ009,,2014-05-15,Yes,Moderate
+SUBJ010,Dyslipidemia,2018-05-15,Yes,Mild
+SUBJ011,Dyslipidemia,2019-05-15,Yes,Mild
+SUBJ012,Dyslipidemia,2022-05-15,Yes,Mild
+SUBJ013,Type 2 Diabetes,2014-05-15,Yes,Mild
+SUBJ014,Type 2 Diabetes,2015-05-15,Yes,Mild
+SUBJ015,Hypertension,2017-05-15,Yes,Mild
+SUBJ016,Obesity,2020-05-15,Yes,Moderate
+SUBJ017,Hypertension,2023-05-15,Yes,Moderate
+SUBJ018,Dyslipidemia,2013-05-15,Yes,Mild
+SUBJ019,Obesity,2018-05-15,Yes,Mild
+SUBJ020,Dyslipidemia,2012-05-15,Yes,Mild
+SUBJ021,Type 2 Diabetes,2024-05-15,Yes,Moderate
+SUBJ022,Type 2 Diabetes,2021-05-15,Yes,Mild
+SUBJ023,Type 2 Diabetes,2016-05-15,Yes,Moderate
+SUBJ024,Hypertension,2016-05-15,Yes,Moderate
+SUBJ025,Dyslipidemia,2016-05-15,Yes,Moderate
+SUBJ026,Obesity,2013-05-15,Yes,Mild
+SUBJ027,Type 2 Diabetes,2012-05-15,Yes,Mild
+SUBJ028,Dyslipidemia,2017-05-15,Yes,Mild
+SUBJ029,Obesity,2013-05-15,Yes,Mild
+SUBJ030,Obesity,2022-05-15,Yes,Mild
+SUBJ031,Type 2 Diabetes,2022-05-15,Yes,Mild
+SUBJ032,Obesity,2015-05-15,Yes,Moderate
+SUBJ033,Obesity,2019-05-15,Yes,Moderate
+SUBJ034,Obesity,2024-05-15,Yes,Mild
+SUBJ035,Dyslipidemia,2021-05-15,Yes,Mild
+SUBJ036,Dyslipidemia,2024-05-15,Yes,Moderate
+SUBJ037,Dyslipidemia,2017-05-15,Yes,Moderate
+SUBJ038,Dyslipidemia,2016-05-15,Yes,Moderate
+SUBJ039,Hypertension,2017-05-15,Yes,Moderate
+SUBJ040,Dyslipidemia,2012-05-15,Yes,Moderate
+SUBJ041,Hypertension,2017-05-15,Yes,Mild
+SUBJ042,Obesity,2019-05-15,Yes,Mild
+SUBJ043,Hypertension,2018-05-15,Yes,Moderate
+SUBJ044,Obesity,2012-05-15,Yes,Moderate
+SUBJ045,Type 2 Diabetes,2015-05-15,Yes,Moderate
+SUBJ046,Hypertension,2014-05-15,Yes,Mild
+SUBJ047,Type 2 Diabetes,2023-05-15,Yes,Moderate
+SUBJ048,Obesity,2023-05-15,Yes,Mild
+SUBJ049,Dyslipidemia,2021-05-15,Yes,Mild
+SUBJ050,Type 2 Diabetes,2021-05-15,Yes,Moderate

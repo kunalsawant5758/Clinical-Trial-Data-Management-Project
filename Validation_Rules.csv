@@ -1,0 +1,18 @@
+Rule ID,Validation Rule,Query IDs
+V001,Subject ID must be unique,Q005
+V002,Age must be between 18 and 80 years,Q001
+V003,Sex cannot be blank,Q002
+V004,Height must be between 100 and 250 cm,Q003
+V005,Weight must be between 30 and 250 kg,"Q004, Q018"
+V006,Medical Condition cannot be blank,Q006
+V007,Diagnosis Date cannot be a future date,Q007
+V008,Medication Dose must be greater than zero,Q008
+V009,Medication Start Date is required,Q009
+V010,Adverse Event Term cannot be blank,Q010
+V011,Adverse Event Outcome cannot be blank,Q011
+V012,AE End Date must be on or after AE Start Date,Q012
+V013,HbA1c result cannot be blank,Q013
+V014,Glucose result must be within acceptable range,Q014
+V015,Systolic BP must be within physiological range,Q015
+V016,Diastolic BP must be within physiological range,Q016
+V017,Pulse Rate must be within physiological range,Q017
